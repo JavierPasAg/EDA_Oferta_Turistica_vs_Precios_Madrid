@@ -31,6 +31,15 @@ El respositorio tiene la siguiente estructura:
 La forma de reproducir el código es sencilla ya que englobamos todo lo ejecutable en un mismo notebook para que pueda ser reproducido y ejecutado de forma secuencial, mostrando los resultados esperados y comentando los pasos y análisis con celdas de markdown.
 
 ## Principales conclusiones
+Los resultados muestran una clara asociación entre la concentración de viviendas ofertadas como alquiler turístico en Airbnb y los precios de las viviendas en Madrid. Tanto a nivel distrito como a nivel barrio se observa que las zonas con más densidad turística tienden a situarse entre las que tienen un mayor precio del metro cuadrado.
+
+Aunque el análisis no permite establecer una causalidad directa, la coherencia de los datos si que respalda la hipótesis inicial y sugiere una relación entre ambos fenómenos.
+
+El estudio evidencia que la presión turística no se distribuye homogéneamente en la ciudad, sino que se concentra en las zonas céntricas y de alto valor urbano lo que provoca la existencia de barrios especialmente vulnerables a la transformación del parque residencial.
+
+Al estudiar los datos en distintos momentos del año (marzo, junio y septiembre), se puede observar que los patrones se mantienen estables en el tiempo, descartándose así que se trate de un fenómeno estacional marcado por periodos estivales.
+
+En conclusión, este estudio aporta una evidencia sólida de que la expansión del alquiler turístico se asocia con niveles elevados de precios de la vivienda en Madrid, especialmente en determinadas zonas de la ciudad, subrayando la importancia de abordarlo desde una perspectiva territorial, temporal y basada en datos.
 
 ## Autores
 Este proyecto ha sido llevado a cabo por los siguientes componentes:
